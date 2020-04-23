@@ -112,26 +112,5 @@
 	  "returned_by": null,
 	  "packaging_condition": "poor",
 	  "home_pickup": 0,
-	  "Status": {
-		  "id": 8,
-		  "status": "Offer Ready",
-		  "modified": "2009-07-31 19:18:36",
-		  "created": "2009-05-26 00:52:28"
-	  },
-	  "PrintStatus": {
-		  "id": 6,
-		  "status": "In-House",
-		  "modified": "2013-06-27 11:36:23",
-		  "created": "0000-00-00 00:00:00"
-	  },
-	  "timer": 0,
-	  "campaign": {
-		  "id": null,
-		  "campaign_id": null,
-		  "order_id": null,
-		  "visit_mode": null,
-		  "modified": null,
-		  "created": null
-	  }
   },
 }
